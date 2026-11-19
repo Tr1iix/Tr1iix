@@ -1,5 +1,9 @@
+<!-- Banner da Borboleta em ASCII Art -->
 <div align="center">
-  <h1>Hi 👋 I'm Nicoli</h1>
+  <img src="SUA_IMAGEM_DA_BORBOLETA_AQUI.jpg" alt="ASCII Butterfly Banner" width="100%" style="border-radius: 8px;" />
+</div>
+
+<br/>
   <p><strong>Systems Analysis & Development Undergraduate • Full-Stack & Cloud Developer</strong></p>
 
   <!-- Texto animado digitando sozinho (igual ao "Open Source" azul do print) -->
