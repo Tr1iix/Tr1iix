@@ -1,6 +1,6 @@
 <!-- Banner da Borboleta em ASCII Art -->
 <div align="center">
-  <img src="SUA_IMAGEM_DA_BORBOLETA_AQUI.jpg" alt="ASCII Butterfly Banner" width="100%" style="border-radius: 8px;" />
+  <img src="https://i.pinimg.com/736x/2b/ba/27/2bba2747f7d0c3c7ad0de8533283c38f.jpg" alt="ASCII Butterfly Banner" width="100%" style="border-radius: 8px;" />
 </div>
 
 <br/>
