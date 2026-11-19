@@ -1,18 +1,10 @@
-<!-- Banner da Borboleta em ASCII Art -->
-<div align="center">
-  <img src="https://i.pinimg.com/736x/2b/ba/27/2bba2747f7d0c3c7ad0de8533283c38f.jpg" alt="ASCII Butterfly Banner" width="100%" style="border-radius: 8px;" />
-</div>
-
 <br/>
   <p><strong>Systems Analysis & Development Undergraduate • Full-Stack & Cloud Developer</strong></p>
 
-  <!-- Texto animado digitando sozinho (igual ao "Open Source" azul do print) -->
   <a href="https://github.com/Tr1iix">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Development;Software+Architecture+%26+Databases;Cloudflare+Edge+%26+APIs;Building+Altrix+Software+%26+Burrow" alt="Typing SVG" />
   </a>
 </div>
-
----
 
 ### 🌐 Connect with Me
 
@@ -49,7 +41,6 @@
   <img src="https://img.shields.io/badge/SQL_/_NOSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
----
 
 ### 📊 GitHub Analytics
 
@@ -57,7 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tr1iix&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
----
 
 ### 📈 Contribution Graph
 
@@ -67,8 +57,6 @@
 
 ---
 
-### ✍️ Random Dev Quote
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://i.pinimg.com/736x/2b/ba/27/2bba2747f7d0c3c7ad0de8533283c38f.jpg" alt="ASCII Butterfly Banner" width="100%" style="border-radius: 8px;" />
 </div>
