@@ -1,5 +1,8 @@
 <div align="center">
-  <p><strong>Systems Analysis & Development Undergraduate • Full-Stack & Cloud Developer</strong></p>
+  <h1>Hi, I'm Nicoli 🦇</h1>
+  <p>
+    I'm a Systems Analysis and Development student at <strong>PUCRS</strong>, passionate about building clean, well-structured software from database modeling to dark-themed user interfaces. Lately, I've been focused on full-stack web development, cloud/edge computing with Cloudflare, and crafting projects like <strong>Burrow</strong> and <strong>Altrix Software</strong>.
+  </p>
 
   <a href="https://github.com/Tr1iix">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Development;Software+Architecture+%26+Databases;Cloudflare+Edge+%26+APIs;Building+Altrix+Software+%26+Burrow" alt="Typing SVG" />
