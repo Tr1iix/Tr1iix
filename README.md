@@ -14,7 +14,7 @@
 ### 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nicoli-costa-nicoli-90b544373/" target="_blank">
+  <a href="linkedin.com/in/nicoli-costa-90b544373" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/nic.c0sta/" target="_blank">
