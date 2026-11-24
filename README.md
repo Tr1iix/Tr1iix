@@ -14,10 +14,10 @@
 ### 🌐 Connect with Me
 
 <div align="center">
-  <a href="linkedin.com/in/nicoli-costa-90b544373" target="_blank">
+  <a href="https://www.linkedin.com/in/nicoli-costa-90b544373/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/nic.c0sta/" target="_blank">
+  <a href="https://www.instagram.com/nic.c0sta/">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:nicoli.costa1612@gmail.com">
